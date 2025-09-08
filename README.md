@@ -19,11 +19,14 @@ O objetivo é facilitar o dia a dia de pet shops e tutores, trazendo **praticida
 ---
 
 ## 📲 Funcionalidades (planejadas e em andamento)
-- [x] Tela de login e cadastro de usuários  
+- [x] Tela inicial de apresentação  
+- [ ] Tela de login e cadastro de usuários  
+- [ ] Tela Home (após login)  
 - [ ] Cadastro de pets 🐶🐱  
 - [ ] Agendamento de serviços com escolha de data e horário 📅  
 - [ ] Notificações de lembrete 🔔  
 - [ ] Área administrativa para o Pet Shop gerenciar atendimentos 🏪  
+ 
 
 ---
 
