@@ -27,11 +27,12 @@ O objetivo é facilitar o dia a dia de pet shops e tutores, trazendo **praticida
 - [ ] Notificações de lembrete 🔔  
 - [ ] Área administrativa para o Pet Shop gerenciar atendimentos 🏪  
  
-## 📸 Prints do App
+## 📸 Impressões do App
 
-![Tela Inicial](./tela-inicial.png)
-![Tela Home](./tela-home.png)
-
+<p align="center">
+  <img src="./tela-inicial.png" alt="Tela Inicial" width="250"/>
+  <img src="./tela-home.png" alt="Tela Home" width="250"/>
+</p>
 
 ---
 
