@@ -29,11 +29,9 @@ O objetivo é facilitar o dia a dia de pet shops e tutores, trazendo **praticida
  
 ## 📸 Prints do App
 
-### Tela Inicial
-![Tela Inicial](./images/tela-inicial.png)
+![Tela Inicial](./tela-inicial.png)
+![Tela Home](./tela-home.png)
 
-### Tela Home
-![Tela Home](./images/tela-home.png)
 
 ---
 
